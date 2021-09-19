@@ -149,7 +149,7 @@ p {
     max-width: 150px;
 } */
 
-.search-engine-optimization {
+.navbar ul.li.a {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -157,24 +157,34 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+    
+/* Removed duplicated Nav Bar Styling */
+/* .search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+} */
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.social-media-marketing {
+/* .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
 /* Remove duplicate styling */
 .search-engine-optimization img {
@@ -210,13 +220,15 @@ p {
     font-size: 36px;
 } */
 
-.footer {
+.footer h2 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
+
+/* added font size styling above */
+/* .footer h2 {
+    font-size: 20px;
+} */
