@@ -125,6 +125,7 @@ p {
     text-align: center;
 } */
 
+/* Duplicated Styling For Benefits Image Section*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
