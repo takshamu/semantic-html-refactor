@@ -182,7 +182,13 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.content div.h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Removed duplicate h2 styling */
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -195,7 +201,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
