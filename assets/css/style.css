@@ -66,6 +66,7 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 /* edited all images to float left */
@@ -149,7 +150,7 @@ p {
     max-width: 150px;
 } */
 
-.navbar ul.li.a {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -187,7 +188,7 @@ p {
 } */
 
 /* Remove duplicate styling */
-.search-engine-optimization img {
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -197,7 +198,7 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
 .content div.h2 {
     margin-bottom: 20px;
